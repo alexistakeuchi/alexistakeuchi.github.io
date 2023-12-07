@@ -1,6 +1,6 @@
 # Alexis Takeuchi's Portfolio 
 
-Welcome to my homepage. My name is Alexis Takeuchi and I am a student at Cal State Fullerton!
+Welcome to my homepage. My name is Alexis Takeuchi and I am a student at Cal State Fullerton. My major is computer science. 
 
 ## GitHub Profile 
 
